@@ -9,6 +9,8 @@
 
 <br>
 
+![giphy](https://github.com/Dalmeida95/Dalmeida95/assets/152429360/6021104b-f10a-4d6e-8ecc-f6b4500c8319)
+
 
 
 - 👋 My favorite programming language is Pyhton
