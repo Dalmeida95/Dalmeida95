@@ -14,18 +14,18 @@
 
 
 
-- Hello, Welcome to my Profile! My name is Dakota Almedia, I have a passion for creating landing pages and user-freindly applications.
+- Hello, Welcome to my Profile! My name is Dakota Almedia, I have a passion for creating landing pages and user-friendly applications.
 
-- As a self-taught front-end developer in have taking the intiiatiuve to learn the latest technologies and techniques for creating dynamic user interfaces.
+- As a self-taught front-end developer i have taking the intiative to learn the latest technologies and techniques for creating dynamic user interfaces.
 
-- I also have interest in cyber security
+- I also have interest in cyber security, with the rise of technology in the world opens up more ways for data to be breached and Knowing how to protect yourself from cyber attacks is crucial.
 
 - I have a great understanding of HTML, CSS, JavaScript, Python and C++.
 
 - My porfolio on Github showcases my dedication on constantly learning and improving as a developer. I am always on the
 lookout for new challenges that will take me out my comfort zone and help improve my skills.
 
-- My unltimate goal is to create appealing landing pages and softwares.
+- My ultimate goal is to create appealing landing pages and softwares.
 
 - I am always open to new ideas and opportunites to collaborate with other developers.
 
