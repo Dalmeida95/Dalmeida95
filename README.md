@@ -1,8 +1,10 @@
 
 <h1 align="center"><b>Hello, I'm Dakota Almeida</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<p align="center"> <a href="https://www.github.com/Dalmeida95" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/dakota-almeida-2b2660185/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=850&center=true&vCenter=true&random=false&width=498&height=91&lines=Computer+Science+Student%2C;Eager+To+Learn%2C;Self-Taught+Front-End+Developer%2C;Interest+In+Cyber-Security%2C" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&weight=500&size=24&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Computer+Science+Student%2C+;Quick+Learner%2C;Self-Taught+Front-End+Developer%2C;Eager+To+Learn%2C;Lets+build+!!" alt="Typing SVG" /></a>
 </p>
 
 
@@ -14,22 +16,13 @@
 
 
 
-- Hello, Welcome to my Profile! My name is Dakota Almedia, I have a passion for creating landing pages and user-friendly applications.
-
-- As a self-taught front-end developer i have taking the intiative to learn the latest technologies and techniques for creating dynamic user interfaces.
-
-- I also have interest in cyber security, with the rise of technology in the world opens up more ways for data to be breached and Knowing how to protect yourself from cyber attacks is crucial.
-
-- I have a great understanding of HTML, CSS, JavaScript, Python and C++.
-
-- My porfolio on Github showcases my dedication on constantly learning and improving as a developer. I am always on the
+- 👀 Hello, Welcome to my Profile! My name is Dakota Almedia, I have a passion for creating landing pages and user-friendly applications.
+- 👨‍💻 As a self-taught front-end developer I have taking the intiative to learn the latest technologies and techniques for creating dynamic user interfaces.
+- 🌐 I have a great understanding of HTML, CSS, JavaScript, Python and C++.
+- 🧳 My porfolio on Github showcases my dedication on constantly learning and improving as a developer. I am always on the
 lookout for new challenges that will take me out my comfort zone and help improve my skills.
-
-- My ultimate goal is to create appealing landing pages and softwares.
-
-- I am always open to new ideas and opportunites to collaborate with other developers.
-
-- Thank you for visitng my profile and I look forward to networking with you.
+- ✨ My ultimate goal is to create appealing landing pages and softwares.
+- 🧩 I am always open to new ideas and opportunites to collaborate with other developers.
 
 <br>
 
@@ -46,7 +39,7 @@ lookout for new challenges that will take me out my comfort zone and help improv
 
 
 
-<p align="left"> <a href="https://www.github.com/Dalmeida95" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/dakota-almeida-2b2660185/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
   
 
 <!---
