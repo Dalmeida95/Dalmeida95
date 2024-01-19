@@ -35,7 +35,8 @@ lookout for new challenges that will take me out my comfort zone and help improv
 </p>
 
 <br>
-<br>
+
+![Snake animation](https://github.com/Dalmeida95/Dalmeida95/blob/output/github-contribution-grid-snake.svg)
 
 
 
