@@ -21,7 +21,7 @@
 - 🌐 I have a great understanding of HTML, CSS, JavaScript, Python and C++.
 - 🧳 My porfolio on Github showcases my dedication on constantly learning and improving as a developer. I am always on the
 lookout for new challenges that will take me out my comfort zone and help improve my skills.
-- ✨ My ultimate goal is to create appealing landing pages and softwares.
+- ✨ My ultimate goal is to create appealing web applications and software.
 - 🧩 I am always open to new ideas and opportunites to collaborate with other developers.
 
 <br>
