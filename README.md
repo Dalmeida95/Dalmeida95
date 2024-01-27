@@ -1,8 +1,17 @@
 
-<h1 align="center"><b>Hello, I'm Dakota Almeida</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
- ![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
- ![](https://komarev.com/ghpvc/?username=Dalmeida95)
+<h1 align="center"><b>Hello, I'm Dakota Almeida</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img src="https://komarev.com/ghpvc/?username=Dalmeida95&abbreviated=true"/>
+
+
+
+<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)" style="text-align: center" alt="coffee"/>
+
+
+
+
+ 
+ 
 
 
 
