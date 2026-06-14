@@ -18,7 +18,7 @@
 <p align="center"> <a href="https://www.github.com/Dalmeida95" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/dakota-almeida-2b2660185/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=4000&pause=800&center=true&vCenter=true&random=false&lines=Bridging+Computer+Science&Supply+Chain;Eager+To+Learn;Tech+Foundation;Data+Driven;Lets+Build!!" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=4000&pause=800&center=true&vCenter=true&random=false&lines=Bridging+Computer+Science+and+Supply+Chain;AI;Eager+To+Learn;Tech+Foundations;Data+Driven;Lets+Build!!" alt="Typing SVG" /></a>
 </p>
 
 
@@ -30,12 +30,12 @@
 
 
 
-- 👀 Hello, Welcome to my Profile! My name is Dakota Almedia, I have a passion for creating landing pages and user-friendly applications.
+- 👀 Hello, Welcome to my Profile! My name is Dakota Almedia, I have a passion for Technology
 - 👨‍💻 As a self-taught front-end developer I have taking the intiative to learn the latest technologies and techniques for creating dynamic user interfaces.
-- 🌐 I have a great understanding of HTML, CSS, JavaScript, Python and C++.
+- 🌐 I have a great understanding of HTML, CSS, JavaScript, Python and SQL.
 - 🧳 My porfolio on Github showcases my dedication on constantly learning and improving as a developer. I am always on the
 lookout for new challenges that will take me out my comfort zone and help improve my skills.
-- ✨ My ultimate goal is to create appealing web applications and software.
+- ✨ My ultimate goal is to help supply chains optimize sales and reduce bottlenecks while using AI
 - 🧩 I am always open to new ideas and opportunites to collaborate with other developers.
 
 <br>
